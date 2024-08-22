@@ -5,7 +5,7 @@ This repository contains the final assignment for the **Introduction to Statisti
 ## Project Details
 
 The project is based on data from a self-paced reading study that examines cross-linguistic differences in processing double-embedded relative clauses. My tasks involved:
-- Fitting an initial LMM to understand the effect of grammaticality (condition) on reading times.
-- Exploring the impact of ±1/2 contrast coding on the model estimates.
+- Fitting an LMM to understand the effect of grammaticality (condition) on reading times.
+- Exploring the impact of contrast coding on the model estimates.
 - Applying treatment coding and comparing the resulting model outputs.
 - Calculating and interpreting the differences in reading times between grammatical and ungrammatical sentences.
